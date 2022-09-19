@@ -3,7 +3,7 @@
 </p>
 
 
-# 💠[BotsApp](https://mybotsapp.com/)💠
+# 💠[AellyBotsapp](https://mybotsapp.com/)💠
 > Your Personal Assisstant, on WhatsApp!
 ---
 ![GitHub top language](https://img.shields.io/github/languages/top/BotsAppOfficial/BotsApp) [![GitHub release](https://img.shields.io/github/release/BotsAppOfficial/BotsApp.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
@@ -65,9 +65,9 @@ To follow this method, you will need to have docker installed on your machine an
 To host the bot on your own device using docker, follow the following steps on your terminal / command prompt -
 
 ```bash
-wget -O BotsApp.tar.gz https://github.com/BotsAppOfficial/BotsApp/archive/refs/tags/v2.0.0-beta.tar.gz
-tar -xvzf BotsApp.tar.gz
-cd BotsApp-2.0.0-beta
+wget -O BotsApp.tar.gz https://github.com/anunicn47/AellyBotsapp/archive/refs/tags/v2.0.0-beta.tar.gz
+tar -xvzf AellyBotsapp.tar.gz
+cd AellyBotsapp-2.0.0-beta
 docker build -t botsapp .
 docker run --rm --name botsapp botsapp
 ```
@@ -81,8 +81,8 @@ To use this method, you will need ffmpeg, nodejs, npm installed on your device.
 To run the bot on your device manually, you can use the following commands -
 
 ```bash
-git clone https://github.com/BotsAppOfficial/BotsApp.git
-cd BotsApp
+git clone https://github.com/anunicn47/AellyBotsapp.git
+cd AellyBotsapp
 yarn
 npm start
 ```
@@ -106,7 +106,7 @@ Feel free to post your queries or concerns on any of the discussion forums menti
   
   
   ### Heroku
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/anunicn47/BotsApp"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/anunicn47/AellyBotsapp"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Contributors
